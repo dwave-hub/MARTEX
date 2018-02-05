@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/dwave-hub/MARTEX/raw/master/MARTEX-1.6.11.tar.bz2",
           "archiveFileName": "MARTEX-1.6.11.tar.bz2",
-          "checksum": "SHA-256:f5f8f27d583dd4e7c50c3457caa32a0d4ed0e018fb1e32084dbe10c7df0fd9ab",
-          "size": "16524704",
+          "checksum": "SHA-256:aa0216c8763ec9a872790e9918656130cdd8307b9c3f8705799ce77ec6c20bcf",
+          "size": "16524695",
           "boards": [
             {"name": "MARTEX"}
           ],
